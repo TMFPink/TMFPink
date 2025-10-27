@@ -63,9 +63,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/48/ce/09/48ce09593ab9599100c3dbe281d1a0ac.gif" />
-</p>
+
+![snake animation](https://raw.githubusercontent.com/TMFPink/TMFPink/output/snake-dark.svg)
+
 
 
 ---
