@@ -3,13 +3,15 @@
 
 <h1>👋 Hi there, my name is Hong <sub><sup><i>(or you can call me Bobby)</i></sup></sub></h1>
 
-<p><b>Full-Stack Software Engineer | Passionate about Game Developing</b></p>
+<div>
+  <img align="right" src="https://th.bing.com/th/id/R.374babd86808fc8918e7f0baad7fa115?rik=zZ1P45VbGxwuBg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-Kr4eGnuPz_4%2fVazUY6Ni0yI%2fAAAAAAAAQRI%2fulXyREyxXxs%2fs1600%2fsonic-hedgehog-pixelart-sonikkudrawings.png&ehk=kIxmpsRdt0ZfUQE7%2fc2t2fUWP%2fpcfbkcqd4KAp31A40%3d&risl=&pid=ImgRaw&r=0" height="180" alt="pixel art sonic" />
 
-<p style="max-width:800px;">
-I’m someone who learns best by doing — experimenting, failing, and trying again until things make sense. I love diving into new technologies, exploring how they work, and pushing myself beyond what I already know. Every project I build teaches me something new about problem-solving and creativity. While my current focus is web development, I’m steadily shaping my skills toward a future in game development — where I can combine logic, design, and storytelling to create experiences that feel alive and meaningful.
-</p>
+  <b>Full-Stack Software Engineer | Passionate about Game Developing</b><br><br>
+  I’m someone who learns best by doing — experimenting, failing, and trying again until things make sense. I love diving into new technologies, exploring how they work, and pushing myself beyond what I already know. Every project I build teaches me something new about problem-solving and creativity. While my current focus is **Web Development**, I’m still want to improve my skills toward a future in **Game Development**-where I can combine logic, design, and storytelling to create experiences that feel alive and meaningful.
+</div>
 
 </div>
+
 
 
 ---
@@ -55,13 +57,14 @@ I’m someone who learns best by doing — experimenting, failing, and trying ag
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMFPink&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMFPink&layout=compact&theme=tokyonight&hide_border=true&hide=c#" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMFPink&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TMFPink&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://i.pinimg.com/originals/48/ce/09/48ce09593ab9599100c3dbe281d1a0ac.gif" />
 </p>
 
 
