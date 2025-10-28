@@ -7,14 +7,14 @@
   <img align="right" src="https://th.bing.com/th/id/R.374babd86808fc8918e7f0baad7fa115?rik=zZ1P45VbGxwuBg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-Kr4eGnuPz_4%2fVazUY6Ni0yI%2fAAAAAAAAQRI%2fulXyREyxXxs%2fs1600%2fsonic-hedgehog-pixelart-sonikkudrawings.png&ehk=kIxmpsRdt0ZfUQE7%2fc2t2fUWP%2fpcfbkcqd4KAp31A40%3d&risl=&pid=ImgRaw&r=0" height="180" alt="pixel art sonic" />
 
   <b>Full-Stack Software Engineer | Passionate about Game Developing</b><br><br>
-  I’m someone who learns best by doing — experimenting, failing, and trying again until things make sense. I love diving into new technologies, exploring how they work, and pushing myself beyond what I already know. Every project I build teaches me something new about problem-solving and creativity. While my current focus is **Web Development**, I’m still want to improve my skills toward a future in **Game Development**-where I can combine logic, design, and storytelling to create experiences that feel alive and meaningful.
+  I’m someone who learns best by doing — experimenting, failing, and trying again until things make sense. I believe it’s okay to fail — what truly matters is the willingness to try again, learn from what didn’t work, and grow from every experience. I love exploring how technology work, and pushing myself to learn new things. Every project I build teaches me something new about problem-solving and creativity. While my current focus is web development, I’m continually improving my skills with an eye toward a future in game development — where I can combine logic, design, and storytelling to create experiences that feel alive and meaningful.
 </div>
 
 </div>
 
 
 
----
+---------
 
 ### 🛠️ Tech Stack
 
